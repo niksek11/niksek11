@@ -21,6 +21,7 @@
 
 ## Spotify:
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=clw64but2lmwqdd681h1kfmv9&cover_image=true&theme=compact" align="left" />  
+<br/> 
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=niksek11&show_icons=true&count_private=true&hide_border=true" align="left" />  
