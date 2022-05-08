@@ -22,5 +22,5 @@
 <br>
 
 ## Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=clw64but2lmwqdd681h1kfmv9&cover_image=true&theme=compact)](../)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=clw64but2lmwqdd681h1kfmv9&cover_image=true&theme=compact)](https://github.com/niksek11/niksek11/blob/main/README.md)
 </br>
