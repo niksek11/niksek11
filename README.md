@@ -22,6 +22,6 @@
 <br>
 
 ## Spotify
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=clw64but2lmwqdd681h1kfmv9&cover_image=true&theme=compact" align="left" /></div> 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=clw64but2lmwqdd681h1kfmv9&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 </br>
