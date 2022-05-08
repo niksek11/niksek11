@@ -22,6 +22,6 @@
 <br>
 
 ## WakaTime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@niksek11)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niksek11)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
