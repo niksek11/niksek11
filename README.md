@@ -22,13 +22,13 @@
 <br>
 
 ## Spotify
-<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=clw64but2lmwqdd681h1kfmv9&cover_image=true&theme=compact" align="left" /></div> 
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=clw64but2lmwqdd681h1kfmv9&cover_image=true&theme=compact" align="left" /></div> 
 
 </br>
 
 <br>
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=niksek11&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=niksek11&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
 </br>
